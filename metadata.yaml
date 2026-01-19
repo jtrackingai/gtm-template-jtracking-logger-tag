@@ -1,5 +1,5 @@
 homepage: "https://github.com/jtrackingai/gtm-template-jtracking-logger-tag"
 documentation: "https://github.com/jtrackingai/gtm-template-jtracking-logger-tag/blob/main/README.md"
 versions:
-  - sha: 1e582f71327b6ee22954391fbcb3ca66667b6e48
+  - sha: 3897cbc0bce1f16b19a115cfdd6fc9bbb5c4cbbd
     changeNotes: Initial release. Logs server-side GTM request data to the console for debugging.
